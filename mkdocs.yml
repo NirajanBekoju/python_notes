@@ -1,0 +1,48 @@
+site_name: Python Tutorial Documentation
+site_url: https://example.com
+site_author: Nirajan Bekoju
+site_description: >-
+  A minimal MkDocs site powered by Material for MkDocs.
+
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: blue
+      accent: light blue
+    - scheme: slate
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - search.highlight
+    - search.share
+    - toc.integrate
+
+nav:
+  - Home:
+      - Introduction to Python: introduction.md
+      - Basic Syntax: basic_syntax.md
+  - About: about.md
+
+plugins:
+  - search
+  - social
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - footnotes
+  - def_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed
