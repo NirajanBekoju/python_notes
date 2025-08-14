@@ -6,6 +6,9 @@ site_description: >-
 
 theme:
   name: material
+  analytics:
+    provider: google
+    property: G-HP653K4MQP
   language: en
   palette:
     - scheme: default
