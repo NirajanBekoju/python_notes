@@ -25,7 +25,7 @@ theme:
     - toc.integrate
 
 nav:
-  - Home:
+  - Home: index.md
       - Introduction to Python: introduction.md
       - Basic Syntax: basic_syntax.md
   - About: about.md
