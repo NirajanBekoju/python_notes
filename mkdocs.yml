@@ -28,14 +28,30 @@ theme:
     - toc.integrate
 
 nav:
-  - Home: index.md
-      - Introduction to Python: introduction.md
-      - Basic Syntax: basic_syntax.md
-  - About: about.md
+  - Python:
+    - Introduction to Python:
+      - Introduction to Python: chapter_1_introduction/introduction.md
+      - Basic Syntax: chapter_1_introduction/basic_syntax.md
+    - Data Types, Variables and Strings:
+      - Data Types and Variables : chapter_2_datatypes/1_variables.ipynb
+      - Strings : chapter_2_datatypes/2_string.ipynb
+      - Operator : chapter_2_datatypes/3_operator.ipynb
+    - Data Structures:
+      - Lists: chapter_3_data_structure/1_list.ipynb
+      - Tuples: chapter_3_data_structure/2_tuple.ipynb
+      - Dictionaries: chapter_3_data_structure/3_dictionary.ipynb
+      - Sets: chapter_3_data_structure/4_set.ipynb
+    - Conditions and Loops:
+      - Conditionals & Loops: chapter_4_conditions_and_loops/4_conditionals_loops_2.ipynb
+    - Functions:
+      - Functions Tutorial: chapter_5_functions/5_functions_tutorial.ipynb
+    - Projects: project/Python_Projects.md
 
 plugins:
   - search
   - social
+  - mkdocs-jupyter
+
 
 markdown_extensions:
   - toc:

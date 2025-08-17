@@ -1,17 +1,26 @@
-# Welcome to MkDocs
+# Introduction to Python
+Welcome to Python basics!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## What is Python?
+Python is a high-level, interpreted programming language known for its simplicity and readability. It is widely used in web development, data science, automation, artificial intelligence, and more.
 
-## Commands
+## Key Features of Python
+- **Easy to Learn**: Python has a clean and readable syntax.
+- **Versatile**: Can be used for various applications, from web apps to machine learning.
+- **Extensive Libraries**: Rich ecosystem of packages for every need.
+- **Cross-platform**: Runs on Windows, macOS, and Linux.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Basic Syntax Example
+```python
+# This is a comment
+print("Hello, World!")
 
-## Project layout
+# Variables
+name = "Alice"
+age = 25
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# Conditional statement
+if age > 18:
+    print(f"{name} is an adult.")
+else:
+    print(f"{name} is not an adult.")
