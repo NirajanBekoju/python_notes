@@ -23,6 +23,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.instant
+    # - navigation.sections  
     - search.highlight
     - search.share
     - toc.integrate
@@ -51,6 +52,7 @@ plugins:
   - search
   - social
   - mkdocs-jupyter
+  - redirects
 
 
 markdown_extensions:
