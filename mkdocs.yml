@@ -32,7 +32,6 @@ nav:
   - Python:
     - Introduction to Python:
       - Introduction to Python: chapter_1_introduction/introduction.md
-      - Basic Syntax: chapter_1_introduction/basic_syntax.md
     - Data Types, Variables and Strings:
       - Data Types and Variables : chapter_2_datatypes/1_variables.ipynb
       - Strings : chapter_2_datatypes/2_string.ipynb
@@ -46,6 +45,31 @@ nav:
       - Conditionals & Loops: chapter_4_conditions_and_loops/4_conditionals_loops_2.ipynb
     - Functions:
       - Functions Tutorial: chapter_5_functions/5_functions_tutorial.ipynb
+    - Useful Functions:
+      - Useful Functions: chapter_6_useful_functions/7_useful_functions_tutorial.ipynb
+    - OOP:
+      - Basics of OOP : chapter_7_oop/OOP.ipynb
+    - Decorators and Generators:
+      - Decorators: chapter_8_decorators_and_generators/decorators.ipynb 
+      - Generators: chapter_8_decorators_and_generators/generators.ipynb
+    - Error Handling and Logging:
+      - Error Handling: chapter_9_error_handling_logging_and_debugging/error_handling.ipynb
+      - Logging: chapter_9_error_handling_logging_and_debugging/logging.ipynb 
+    - File Handling:
+      - File Handling using Text: chapter_10_file_io/file_handling_text.ipynb 
+      - File Handling using CSV : chapter_10_file_io/file_handling_csv.ipynb 
+      - File Handling using JSON : chapter_10_file_io/file_handling_json.ipynb 
+    - Modules:
+      - Modules: chapter_11_modules/Modules.ipynb
+      - Math - Builtin Module : chapter_11_modules/builtin_modules/math_module_tutorial.ipynb 
+      - Datetime - Builtin Module : chapter_11_modules/builtin_modules/datetime_tutorial.ipynb 
+    - Data Analysis:
+      - Numpy : chapter_12_data_analysis/numpy_tutorial.ipynb 
+      - Pandas : chapter_12_data_analysis/pandas_tutorial.ipynb
+      - Visualization : chapter_12_data_analysis/visualization_tutorial.ipynb 
+    - Machine Learning: 
+      - Basics of Machine Learning : chapter_13_machine_learning/Machine_learning.ipynb 
+      - Streamlit App : chapter_13_machine_learning/ml_streamlit_app.ipynb
     - Projects: project/Python_Projects.md
 
 plugins:

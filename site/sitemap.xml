@@ -2,54 +2,174 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://example.com/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <lastmod>2025-10-04</lastmod>
     </url>
     <url>
-         <loc>https://example.com/chapter_1_introduction/basic_syntax/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://example.com/chapter_10_file_io/file_handling_csv/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_10_file_io/file_handling_json/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_10_file_io/file_handling_text/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_11_modules/Modules/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_11_modules/builtin_modules/datetime_tutorial/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_11_modules/builtin_modules/math_module_tutorial/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_11_modules/custom_modules/config/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_11_modules/custom_modules/main/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_11_modules/custom_modules/custom_modules/arithmetic_operation/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_11_modules/custom_modules/custom_modules/bank_account/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_12_data_analysis/numpy_tutorial/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_12_data_analysis/pandas_tutorial/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_12_data_analysis/visualization_tutorial/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_12_data_analysis/exercises/matplotlib-exercises/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_12_data_analysis/exercises/numpy-exercises/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_12_data_analysis/exercises/pandas-exercises/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_12_data_analysis/exercises/scikit-learn-exercises%20%28R%29/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_12_data_analysis/exercises/scikit-learn-exercises/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_13_machine_learning/Machine_learning/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_13_machine_learning/ml_streamlit_app/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_13_machine_learning/streamlit_app/</loc>
+         <lastmod>2025-10-04</lastmod>
     </url>
     <url>
          <loc>https://example.com/chapter_1_introduction/introduction/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <lastmod>2025-10-04</lastmod>
     </url>
     <url>
          <loc>https://example.com/chapter_2_datatypes/1_variables/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <lastmod>2025-10-04</lastmod>
     </url>
     <url>
          <loc>https://example.com/chapter_2_datatypes/2_string/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <lastmod>2025-10-04</lastmod>
     </url>
     <url>
          <loc>https://example.com/chapter_2_datatypes/3_operator/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <lastmod>2025-10-04</lastmod>
     </url>
     <url>
          <loc>https://example.com/chapter_3_data_structure/1_list/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <lastmod>2025-10-04</lastmod>
     </url>
     <url>
          <loc>https://example.com/chapter_3_data_structure/2_tuple/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <lastmod>2025-10-04</lastmod>
     </url>
     <url>
          <loc>https://example.com/chapter_3_data_structure/3_dictionary/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <lastmod>2025-10-04</lastmod>
     </url>
     <url>
          <loc>https://example.com/chapter_3_data_structure/4_set/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <lastmod>2025-10-04</lastmod>
     </url>
     <url>
          <loc>https://example.com/chapter_4_conditions_and_loops/4_conditionals_loops_2/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <lastmod>2025-10-04</lastmod>
     </url>
     <url>
          <loc>https://example.com/chapter_5_functions/5_functions_tutorial/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_6_useful_functions/7_useful_functions_tutorial/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_7_oop/11.%20OOP/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_7_oop/1_oop_basic/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_7_oop/2_oop_4_pillars/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_7_oop/OOP/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_8_decorators_and_generators/decorators/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_8_decorators_and_generators/generators/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_9_error_handling_logging_and_debugging/debuggin/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_9_error_handling_logging_and_debugging/error_handling/</loc>
+         <lastmod>2025-10-04</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/chapter_9_error_handling_logging_and_debugging/logging/</loc>
+         <lastmod>2025-10-04</lastmod>
     </url>
     <url>
          <loc>https://example.com/project/Python_Projects/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <lastmod>2025-10-04</lastmod>
     </url>
 </urlset>
